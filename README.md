@@ -1,4 +1,5 @@
-##Why This Project??
+## Why This Project??
+
 Detecting stress is crucial for maintaining overall well-being. Stress can impact our mental and physical health, affecting daily life and productivity. 
 Recognizing signs of stress early allows individuals to take steps to manage it effectively. Simple strategies like relaxation techniques, exercise, or seeking support can 
 make a big difference. By paying attention to stress and addressing it promptly, individuals can lead healthier and happier lives, improving their quality of life and 
